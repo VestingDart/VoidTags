@@ -1,0 +1,13 @@
+database:
+  type: sqlite # oder mysql
+  host: localhost
+  port: 3306
+  name: voidtags
+  user: root
+  pass: password
+
+tags:
+  king: "<gold>👑 König"
+  queen: "<light_purple>👑 Königin"
+  knight: "<gray>⚔ Ritter"
+  wizard: "<aqua>🪄 Zauberer"
